@@ -11,6 +11,7 @@ import SwiftUI
 struct UberCloneIOS16App: App {
     var body: some Scene {
         WindowGroup {
+//            LocationSearchActivationView()
             HomeView()
 //            ContentView()
         }
